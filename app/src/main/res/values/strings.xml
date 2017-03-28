@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CapitalSocial</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Login -->
+    <string name="login.button.login">Ingresar</string>
+    <string name="login.button.facebook">Inicia Sesión con Facebook</string>
+    <string name="login.label.login">o ingresa tu correo y tu contraseña</string>
+    <string name="login.label.user">Usuario</string>
+    <string name="login.label.show">MOSTRAR</string>
+    <string name="login.label.password">Contraseña</string>
+    <string name="login.button.register">Regístrate</string>
+    <string name="login.label.forgot"><u>¿Has olvidado tu contraseña?</u></string>
+
+    <!-- Home -->
+    <string name="home.hint.search">Buscar</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
